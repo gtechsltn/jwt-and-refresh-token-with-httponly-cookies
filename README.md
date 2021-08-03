@@ -1,3 +1,8 @@
+# Console Application
++ https://www.thecodebuzz.com/using-httpclientfactory-in-net-core-console-application/
++ Install-Package Microsoft.Extensions.Hosting
++ Install-Package Microsoft.Extensions.Http
+
 # JWT and Refresh Token with HttpOnly Cookies
 
 ## .NET 5.0 API - JWT Authentication with Refresh Tokens
