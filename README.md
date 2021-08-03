@@ -1,7 +1,8 @@
 # Console Application
 + https://www.thecodebuzz.com/using-httpclientfactory-in-net-core-console-application/
-+ Install-Package Microsoft.Extensions.Hosting
-+ Install-Package Microsoft.Extensions.Http
++ https://mohamad.hashnode.dev/net-5-console-app-with-dependency-injection-serilog-logging-and-appsettings
++ https://github.com/mohamadlawand087/v22-DotnetConsole
++ https://github.com/gtechsltn/v22-DotnetConsole
 
 # JWT and Refresh Token with HttpOnly Cookies
 
