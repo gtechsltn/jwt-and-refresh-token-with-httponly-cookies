@@ -1,0 +1,31 @@
+04-Aug-2021 02:04:52.123 +07:00 [INF] Application Started at "2021-08-03T19:04:52.0912122Z"
+04-Aug-2021 02:04:56.283 +07:00 [INF] Start processing HTTP request GET "https://thecodebuzz.com/"
+04-Aug-2021 02:04:56.298 +07:00 [INF] Sending HTTP request GET "https://thecodebuzz.com/"
+04-Aug-2021 02:04:57.808 +07:00 [INF] Received HTTP response headers after 1505.0232ms - 200
+04-Aug-2021 02:04:57.815 +07:00 [INF] End processing HTTP request after 1552.4994ms - 200
+04-Aug-2021 02:04:59.137 +07:00 [INF] BusinessLayer Started at 8/3/2021 7:04:59 PM
+04-Aug-2021 02:04:59.139 +07:00 [INF] DataAccessLayer Started at 8/3/2021 7:04:59 PM
+04-Aug-2021 02:04:59.141 +07:00 [INF] BusinessLayer Ended at 8/3/2021 7:04:59 PM
+04-Aug-2021 02:04:59.844 +07:00 [INF] Application Ended at "2021-08-03T19:04:59.7997269Z"
+04-Aug-2021 02:07:48.372 +07:00 [INF] Application Started at "2021-08-03T19:07:48.3554026Z"
+04-Aug-2021 02:07:50.006 +07:00 [INF] Start processing HTTP request GET "https://thecodebuzz.com/"
+04-Aug-2021 02:07:50.017 +07:00 [INF] Sending HTTP request GET "https://thecodebuzz.com/"
+04-Aug-2021 02:07:51.394 +07:00 [INF] Received HTTP response headers after 1373.0989ms - 200
+04-Aug-2021 02:07:51.398 +07:00 [INF] End processing HTTP request after 1409.7908ms - 200
+04-Aug-2021 02:07:51.689 +07:00 [INF] BusinessLayer Started at 8/3/2021 7:07:51 PM
+04-Aug-2021 02:07:51.704 +07:00 [INF] DataAccessLayer Started at 8/3/2021 7:07:51 PM
+04-Aug-2021 02:07:51.816 +07:00 [INF] DataAccessLayer Ended at 8/3/2021 7:07:51 PM
+04-Aug-2021 02:07:51.817 +07:00 [INF] BusinessLayer Ended at 8/3/2021 7:07:51 PM
+04-Aug-2021 02:07:51.818 +07:00 [INF] Application Ended at "2021-08-03T19:07:51.8183039Z"
+04-Aug-2021 02:16:54.256 +07:00 [INF] MyApplication Started at "2021-08-03T19:16:54.2396032Z"
+04-Aug-2021 02:16:56.011 +07:00 [INF] Start processing HTTP request GET "https://thecodebuzz.com/"
+04-Aug-2021 02:16:56.025 +07:00 [INF] Sending HTTP request GET "https://thecodebuzz.com/"
+04-Aug-2021 02:16:57.620 +07:00 [INF] Received HTTP response headers after 1587.825ms - 200
+04-Aug-2021 02:16:57.625 +07:00 [INF] End processing HTTP request after 1630.8746ms - 200
+04-Aug-2021 02:16:57.937 +07:00 [INF] BusinessLayer Started at 8/3/2021 7:16:57 PM
+04-Aug-2021 02:16:58.013 +07:00 [INF] Username: manhng83@gmail.com, Password: Abc@123$
+04-Aug-2021 02:16:58.031 +07:00 [INF] DataAccessLayer Started at 8/3/2021 7:16:58 PM
+04-Aug-2021 02:16:58.033 +07:00 [INF] Connection String: DataSource=app.db;Cache=Shared
+04-Aug-2021 02:16:58.139 +07:00 [INF] DataAccessLayer Ended at 8/3/2021 7:16:58 PM
+04-Aug-2021 02:16:58.141 +07:00 [INF] BusinessLayer Ended at 8/3/2021 7:16:58 PM
+04-Aug-2021 02:16:58.142 +07:00 [INF] MyApplication Ended at "2021-08-03T19:16:58.1426551Z"
