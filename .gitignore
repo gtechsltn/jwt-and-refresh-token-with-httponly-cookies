@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Api.Testing/.vs/Api.Testing
+/src/Api.Testing/Api.Testing/bin/Debug/net5.0
+/src/Api.Testing/Api.Testing/obj
