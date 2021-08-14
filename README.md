@@ -4,8 +4,12 @@
 + https://github.com/mohamadlawand087/v22-DotnetConsole
 + https://github.com/gtechsltn/v22-DotnetConsole
 
-# JWT and Refresh Token with HttpOnly Cookies
+# IdentityServer4 + ReactJS + ASP.NET Core 5 Web API
++ **C**: https://github.com/workcontrolgit/react-oidc-client-js (based on https://github.com/skoruba/react-oidc-client-js.git)
++ **A**: https://github.com/workcontrolgit/catnetcoreapi
++ **T**: https://github.com/workcontrolgit/TokenProject.AdminUI
 
+# JWT and Refresh Token with HttpOnly Cookies
 ## .NET 5.0 API - JWT Authentication with Refresh Tokens
 + https://jasonwatmore.com/post/2021/06/15/net-5-api-jwt-authentication-with-refresh-tokens
 + https://github.com/cornflourblue/dotnet-5-role-based-authorization-api
